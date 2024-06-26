@@ -52,7 +52,7 @@ void loop()
     {
       Serial.println("on");
     }
-    else if (jsonStringFromCentral == "off")
+    else if (jsonStringFromCentral == "ofddddf")
     {
       Serial.println("off");
       digitalWrite(switch1, HIGH);
